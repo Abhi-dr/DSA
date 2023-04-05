@@ -3,7 +3,6 @@
 ## Submit the following on your Leetcode profile itself.
 
 ### Easy
-4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
